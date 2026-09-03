@@ -41,7 +41,7 @@ The main dashboard provides a centralized overview of key metrics across the pla
 - KPI monitoring
 - Interactive navigation between dashboards
 
-<img src="Elements/Eternal-View.png" width="900">
+<img src="Eternal-product-analytics-dashboard/Elements/Eternal-View.png" width="900">
 ---
 
 ## 🍽️ 2. Zomato Analytics
@@ -64,7 +64,7 @@ The Zomato dashboard analyzes food delivery and restaurant-related data.
 - What cuisines are most preferred?
 - How does restaurant performance vary across locations?
 - What factors influence customer preferences?
-<img src="Elements/Zomato-View.png" width="900">
+<img src="Eternal-product-analytics-dashboard/Elements/Zomato-View.png" width="900">
 
 ---
 
@@ -87,7 +87,7 @@ The Blinkit dashboard focuses on quick-commerce and grocery analytics.
 - Which outlets perform the best?
 - How does outlet size and location impact performance?
 - What consumer purchasing trends can be identified?
-<img src="Elements/Blinkit-View.png" width="900">
+<img src="Eternal-product-analytics-dashboard/Elements/Blinkit-View.png" width="900">
 ---
 
 ## 🎟️ 4. District Analytics
@@ -109,7 +109,7 @@ The District dashboard analyzes customer booking behavior across entertainment a
 - What booking patterns can be observed?
 - Which entertainment categories are most popular?
 - How do customer preferences vary across categories?
-<img src="Elements/District-View.png" width="900">
+<img src="Eternal-product-analytics-dashboard/Elements/District-View.png" width="900">
 
 ---
 
